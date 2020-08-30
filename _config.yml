@@ -3,10 +3,8 @@ logo: "/images/output-onlinejpgtools.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello There. I'm Arthur, an aspiring Java Developer with great passion for Security, Web Developement and Computer Networks.
   <br><br>
-  <a href="https://github.com/AkrayAS">View My Github Profile</a>
-  <br>
   <a href="https://www.linkedin.com/in/arthur-anastopulos-6171b01a6/">View My LinkedIn Profile</a>
-  <br>
+  <br><br>
   <a href="https://twitter.com/arntpls">View My Twitter Profile</a> 
   
 theme: jekyll-theme-minimal
